@@ -39,6 +39,21 @@ Currently, I’m working as a **Junior Software Developer** at **Cellect Energy*
 
 ---
 
+## 🌐 Languages
+
+- **English**: Professional working proficiency (B2)
+- **Spanish**: Native proficiency
+- **Catalan**: Native proficiency
+
+---
+
+## 📜 Certifications
+
+- **Introduction to Cybersecurity**  
+  *Issued by Cisco | Date: 09/2024*
+  
+---
+
 ## 📫 Let's Connect
 
 - 💬 **[LinkedIn](https://linkedin.com/in/tu-usuario)** – Let’s connect and discuss opportunities.
