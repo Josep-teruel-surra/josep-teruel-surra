@@ -1,5 +1,5 @@
 # Hi, My name is Josep Teruel 👋
-### Backend Developer | Passionate about DevOps and Cybersecurity
+### Backend Developer
 
 ---
 
@@ -15,6 +15,8 @@ Currently, I’m working as a **Junior Software Developer** at **Cellect Energy*
 
 **Main Stack:**
 
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -25,8 +27,6 @@ Currently, I’m working as a **Junior Software Developer** at **Cellect Energy*
 
 **Familiar with:**
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
@@ -56,5 +56,5 @@ Currently, I’m working as a **Junior Software Developer** at **Cellect Energy*
 
 ## 📫 Let's Connect
 
-- 💬 **[LinkedIn](https://linkedin.com/in/tu-usuario)** – Let’s connect and discuss opportunities.
-- 📧 Reach me via email at **tuemail@gmail.com** for collaborations or queries.
+- 💬 **[LinkedIn](https://www.linkedin.com/in/josep-teruel-surra/)** – Let’s connect and discuss opportunities.
+- 📧 Reach me via email at **josep.teruel.surra@gmail.com** for collaborations or queries.
